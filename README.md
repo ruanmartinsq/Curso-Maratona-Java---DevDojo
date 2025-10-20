@@ -126,29 +126,29 @@ by: [@williamsuane](https://github.com/williamsuane)
 
 ### 🧰 Classes Utilitárias
 *(Wrappers, Strings, Datas, Regex, IO, NIO, Serialization, etc.)*  
-106–192 → Incluem todos os tópicos de **Wrappers**, **Strings**, **Datas e Locales**, **Regex**, **IO/NIO**, e **Serialization** conforme lista completa do curso.
+106–160 → Incluem todos os tópicos de **Wrappers**, **Strings**, **Datas e Locales**, **Regex**, **IO/NIO**, e **Serialization** conforme lista completa do curso.
 
 ### 🧮 Coleções e Generics
-193–233 → Incluem todas as aulas sobre **List, Set, Map, Queue**, **Comparator**, **Iterator**, e **Generics**.
+161–188 → Incluem todas as aulas sobre **List, Set, Map, Queue**, **Comparator**, **Iterator**, e **Generics**.
 
 ### 🧱 Classes Internas e Lambdas
-234–249 → Incluem aulas de **Classes Internas**, **Lambdas**, **Predicate**, **Consumer**, **Function**, e **Method References**.
+189-200 → Incluem aulas de **Classes Internas**, **Lambdas**, **Predicate**, **Consumer**, **Function**, e **Method References**.
 
 ### 🌀 Streams
-250–266 → Aulas de **Streams**, **Collectors**, **Parallel Streams**, **Reduce**, e **FlatMap**.
+201-207 → Aulas de **Streams**, **Collectors**, **Parallel Streams**, **Reduce**, e **FlatMap**.
 
 ### 🧵 Threads e Concorrência
-267–299 → Abrangem **Threads**, **Sincronismo**, **Deadlock**, **Executors**, **Callable**, **Future**, e **CompletableFuture**.
+208–245 → Abrangem **Threads**, **Sincronismo**, **Deadlock**, **Executors**, **Callable**, **Future**, e **CompletableFuture**.
 
 ### 🧠 Padrões de Projeto e JDBC
-300–328 → **Builder**, **Factory**, **Singleton**, **DTO**, e **JDBC** (do Docker até CRUD completo).
+246–279 → **Builder**, **Factory**, **Singleton**, **DTO**, e **JDBC** (do Docker até CRUD completo).
 
 ### 🧪 Testes e Novidades
-329. Testes unitários com jUnit pt 01  
-330. Testes unitários com jUnit pt 02  
-331. Atualizando JDK  
-332. Record Class  
-333. Pattern Matching for instanceof  
+280. Testes unitários com jUnit pt 01  
+281. Testes unitários com jUnit pt 02  
+282. Atualizando JDK  
+283. Record Class  
+284. Pattern Matching for instanceof  
 
 ---
 
@@ -179,5 +179,5 @@ O curso cobre desde os fundamentos da linguagem Java até tópicos avançados co
 ## ✍️ Autor deste Repositório
 
 Projeto de estudos mantido por **Ruan Martins**.  
-📧 Contato: [ruanlana34@gmail.com](mailto:ruanlana34@gmail.com)  
+📧 Contato: [ruanlana34@gmail.com@gmail.com](mailto:ruanlana34@gmail.com)  
 🚀 Foco: reforçar fundamentos e avançar em Java!
