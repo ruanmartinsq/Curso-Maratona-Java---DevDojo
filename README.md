@@ -1,12 +1,13 @@
 # 📚 Curso de Java - Maratona Java Virado no Jiraya
 
-**Vídeos do Curso:** [YouTube Playlist](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)  
+**🎥 Vídeos do Curso:** [YouTube Playlist](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)  
 by: [@williamsuane](https://github.com/williamsuane)
 
 ---
 
 ## 🧠 Conteúdo do Curso
 
+### 🏁 Introdução
 1. O que esperar do curso  
 2. Como Java Funciona  
 3. Fazendo o download da JDK 15  
@@ -16,6 +17,8 @@ by: [@williamsuane](https://github.com/williamsuane)
 7. Conhecendo a IDE IntelliJ Community  
 8. Organizando o código em pacotes  
 9. Comentários  
+
+### 🔢 Tipos Primitivos e Operadores
 10. Tipos primitivos pt 01 - Convenções de variáveis  
 11. Tipos primitivos pt 02 - Declaração e tamanho em memória  
 12. Tipos primitivos pt 03 - Casting  
@@ -26,6 +29,8 @@ by: [@williamsuane](https://github.com/williamsuane)
 17. Operadores pt 03 - Lógicos AND  
 18. Operadores pt 04 - Lógicos OR  
 19. Operadores pt 05 - Atribuição  
+
+### ⚙️ Estruturas Condicionais e Repetição
 20. Estruturas Condicionais pt 01 - IF  
 21. Estruturas Condicionais pt 02 - ELSE IF  
 22. Estruturas Condicionais pt 03 - Operador ternário  
@@ -38,6 +43,8 @@ by: [@williamsuane](https://github.com/williamsuane)
 29. Estruturas de Repetição pt 03 - Break  
 30. Estruturas de Repetição pt 04 - Exercício Break  
 31. Estruturas de Repetição pt 05 - Continue  
+
+### 🧩 Arrays
 32. Arrays pt 01  
 33. Arrays pt 02  
 34. Arrays pt 03  
@@ -45,6 +52,8 @@ by: [@williamsuane](https://github.com/williamsuane)
 36. Arrays Multidimensionais pt 01  
 37. Arrays Multidimensionais pt 02 - Foreach  
 38. Arrays Multidimensionais pt 03 - Inicialização  
+
+### 🧱 Orientação a Objetos
 39. Orientação a Objetos pt 01 - Introdução classes pt 01  
 40. Orientação a Objetos pt 02 - Introdução classes pt 02  
 41. Orientação a Objetos pt 03 - Introdução classes pt 03  
@@ -101,29 +110,61 @@ by: [@williamsuane](https://github.com/williamsuane)
 92. Orientação a Objetos - Polimorfismo pt 03 - Parâmetros polimórficos  
 93. Orientação a Objetos - Polimorfismo pt 04 - Cast e instanceof  
 94. Orientação a Objetos - Polimorfismo pt 05 - Programação orientada a interface  
+
+### ⚠️ Exceções
 95. Exceções pt 01 - Errors  
 96. Exceções pt 02 - RuntimeException  
 97. Exceções pt 03 - Exception  
 98. Exceções pt 04 - Lançando exceção unchecked  
 99. Exceções pt 05 - Lançando exceção checked  
 100. Exceções pt 06 - Bloco Finally  
-... *(continua com todos os tópicos até o final da sua lista)*
+101. Exceções pt 07 - Capturando múltiplas exceções  
+102. Exceções pt 08 - Multi catch em linha  
+103. Exceções pt 09 - Try with resources  
+104. Exceções pt 10 - Exceção customizada  
+105. Exceções pt 11 - Exceção e regras de sobrescrita  
+
+### 🧰 Classes Utilitárias
+*(Wrappers, Strings, Datas, Regex, IO, NIO, Serialization, etc.)*  
+106–192 → Incluem todos os tópicos de **Wrappers**, **Strings**, **Datas e Locales**, **Regex**, **IO/NIO**, e **Serialization** conforme lista completa do curso.
+
+### 🧮 Coleções e Generics
+193–233 → Incluem todas as aulas sobre **List, Set, Map, Queue**, **Comparator**, **Iterator**, e **Generics**.
+
+### 🧱 Classes Internas e Lambdas
+234–249 → Incluem aulas de **Classes Internas**, **Lambdas**, **Predicate**, **Consumer**, **Function**, e **Method References**.
+
+### 🌀 Streams
+250–266 → Aulas de **Streams**, **Collectors**, **Parallel Streams**, **Reduce**, e **FlatMap**.
+
+### 🧵 Threads e Concorrência
+267–299 → Abrangem **Threads**, **Sincronismo**, **Deadlock**, **Executors**, **Callable**, **Future**, e **CompletableFuture**.
+
+### 🧠 Padrões de Projeto e JDBC
+300–328 → **Builder**, **Factory**, **Singleton**, **DTO**, e **JDBC** (do Docker até CRUD completo).
+
+### 🧪 Testes e Novidades
+329. Testes unitários com jUnit pt 01  
+330. Testes unitários com jUnit pt 02  
+331. Atualizando JDK  
+332. Record Class  
+333. Pattern Matching for instanceof  
 
 ---
 
 ## 💡 Sobre o Projeto
 
 Este repositório contém os códigos e anotações do curso **Maratona Java Virado no Jiraya**, ministrado por [@williamsuane](https://github.com/williamsuane).  
-O curso cobre desde os fundamentos da linguagem Java até tópicos avançados como **Threads, Generics, Padrões de Projeto, e JDBC**.
+O curso cobre desde os fundamentos da linguagem Java até tópicos avançados como **Threads, Generics, Padrões de Projeto e JDBC**.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 15+**
-- **IntelliJ IDEA Community**
-- **JDK (Java Development Kit)**
-- **Maven** (nas partes do JDBC)
+- **Java 15+**  
+- **IntelliJ IDEA Community**  
+- **JDK (Java Development Kit)**  
+- **Maven** (nas partes do JDBC)  
 - **JUnit 5** (para testes unitários)
 
 ---
@@ -135,8 +176,8 @@ O curso cobre desde os fundamentos da linguagem Java até tópicos avançados co
 
 ---
 
-## ✍️ Autor deste repositório
+## ✍️ Autor deste Repositório
 
 Projeto de estudos mantido por **Ruan Martins**.  
-📧 Contato: ruan.martins.dev@gmail.com  
+📧 Contato: [ruan.martins.dev@gmail.com](mailto:ruanlana34@gmail.com)  
 🚀 Foco: reforçar fundamentos e avançar em Java!
