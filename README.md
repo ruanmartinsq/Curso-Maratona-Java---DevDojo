@@ -179,5 +179,5 @@ O curso cobre desde os fundamentos da linguagem Java até tópicos avançados co
 ## ✍️ Autor deste Repositório
 
 Projeto de estudos mantido por **Ruan Martins**.  
-📧 Contato: [ruan.martins.dev@gmail.com](mailto:ruanlana34@gmail.com)  
+📧 Contato: [ruanlana34@gmail.com](mailto:ruanlana34@gmail.com)  
 🚀 Foco: reforçar fundamentos e avançar em Java!
